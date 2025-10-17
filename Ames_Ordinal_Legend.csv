@@ -1,0 +1,125 @@
+Name,Value,Value_Order
+BsmtCond,No Basement,0
+BsmtCond,Po,1
+BsmtCond,Fa,2
+BsmtCond,TA,3
+BsmtCond,Gd,4
+BsmtCond,Ex,5
+BsmtExposure,No Basement,0
+BsmtExposure,No,1
+BsmtExposure,Mn,2
+BsmtExposure,Av,3
+BsmtExposure,Gd,4
+BsmtFinType1,No Basement,0
+BsmtFinType1,Unf,1
+BsmtFinType1,LwQ,2
+BsmtFinType1,Rec,3
+BsmtFinType1,BLQ,4
+BsmtFinType1,ALQ,5
+BsmtFinType1,GLQ,6
+BsmtFinType2,No Basement,0
+BsmtFinType2,Unf,1
+BsmtFinType2,LwQ,2
+BsmtFinType2,Rec,3
+BsmtFinType2,BLQ,4
+BsmtFinType2,ALQ,5
+BsmtFinType2,GLQ,6
+BsmtQual,No Basement,0
+BsmtQual,Po,1
+BsmtQual,Fa,2
+BsmtQual,TA,3
+BsmtQual,Gd,4
+BsmtQual,Ex,5
+Electrical,FuseP,0
+Electrical,FuseF,1
+Electrical,FuseA,2
+Electrical,SBrkr,3
+ExterCond,Po,0
+ExterCond,Fa,1
+ExterCond,TA,2
+ExterCond,Gd,3
+ExterCond,Ex,4
+ExterQual,Fa,0
+ExterQual,TA,1
+ExterQual,Gd,2
+ExterQual,Ex,3
+Fence,No Fence,0
+Fence,MnWw,1
+Fence,GdWo,2
+Fence,MnPrv,3
+Fence,GdPrv,4
+FireplaceQu,No Fireplace,0
+FireplaceQu,Po,1
+FireplaceQu,Fa,2
+FireplaceQu,TA,3
+FireplaceQu,Gd,4
+FireplaceQu,Ex,5
+Functional,Sal,0
+Functional,Maj2,1
+Functional,Maj1,2
+Functional,Mod,3
+Functional,Min2,4
+Functional,Min1,5
+Functional,Typ,6
+GarageCond,No Garage,0
+GarageCond,Po,1
+GarageCond,Fa,2
+GarageCond,TA,3
+GarageCond,Gd,4
+GarageCond,Ex,5
+GarageFinish,No Garage,0
+GarageFinish,Unf,1
+GarageFinish,RFn,2
+GarageFinish,Fin,3
+GarageQual,No Garage,0
+GarageQual,Po,1
+GarageQual,Fa,2
+GarageQual,TA,3
+GarageQual,Gd,4
+GarageQual,Ex,5
+HeatingQC,Po,0
+HeatingQC,Fa,1
+HeatingQC,TA,2
+HeatingQC,Gd,3
+HeatingQC,Ex,4
+KitchenQual,Po,0
+KitchenQual,Fa,1
+KitchenQual,TA,2
+KitchenQual,Gd,3
+KitchenQual,Ex,4
+LandSlope,Gtl,0
+LandSlope,Mod,1
+LandSlope,Sev,2
+LotShape,IR3,0
+LotShape,IR2,1
+LotShape,IR1,2
+LotShape,Reg,3
+OverallCond,1,0
+OverallCond,2,1
+OverallCond,3,2
+OverallCond,4,3
+OverallCond,5,4
+OverallCond,6,5
+OverallCond,7,6
+OverallCond,8,7
+OverallCond,9,8
+OverallQual,1,0
+OverallQual,2,1
+OverallQual,3,2
+OverallQual,4,3
+OverallQual,5,4
+OverallQual,6,5
+OverallQual,7,6
+OverallQual,8,7
+OverallQual,9,8
+OverallQual,10,9
+PavedDrive,N,0
+PavedDrive,P,1
+PavedDrive,Y,2
+PoolQC,No Pool,0
+PoolQC,Fa,1
+PoolQC,TA,2
+PoolQC,Gd,3
+PoolQC,Ex,4
+Utilities,NoSewr,0
+Utilities,AllPub,1

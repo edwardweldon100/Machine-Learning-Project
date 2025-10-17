@@ -1,0 +1,124 @@
+Column Name,Value,Value Count
+BsmtCond,TA,2315
+BsmtCond,Gd,101
+BsmtCond,Fa,88
+BsmtCond,No Basement,69
+BsmtCond,Ex,3
+BsmtCond,Po,3
+BsmtExposure,No,1708
+BsmtExposure,Av,344
+BsmtExposure,Gd,242
+BsmtExposure,Mn,214
+BsmtExposure,No Basement,71
+BsmtFinType1,GLQ,753
+BsmtFinType1,Unf,706
+BsmtFinType1,ALQ,397
+BsmtFinType1,Rec,265
+BsmtFinType1,BLQ,250
+BsmtFinType1,LwQ,139
+BsmtFinType1,No Basement,69
+BsmtFinType2,Unf,2249
+BsmtFinType2,Rec,97
+BsmtFinType2,LwQ,84
+BsmtFinType2,BLQ,64
+BsmtFinType2,ALQ,53
+BsmtFinType2,GLQ,32
+BsmtQual,TA,1166
+BsmtQual,Gd,1076
+BsmtQual,Ex,188
+BsmtQual,Fa,78
+BsmtQual,No Basement,69
+BsmtQual,Po,2
+Electrical,SBrkr,2365
+Electrical,FuseA,168
+Electrical,FuseF,39
+Electrical,FuseP,7
+ExterCond,TA,2231
+ExterCond,Gd,279
+ExterCond,Fa,56
+ExterCond,Ex,11
+ExterCond,Po,2
+ExterQual,TA,1635
+ExterQual,Gd,841
+ExterQual,Ex,73
+ExterQual,Fa,30
+Fence,No Fence,2054
+Fence,MnPrv,301
+Fence,GdPrv,111
+Fence,GdWo,103
+Fence,MnWw,10
+FireplaceQu,No Fireplace,1241
+FireplaceQu,Gd,618
+FireplaceQu,TA,572
+FireplaceQu,Fa,70
+FireplaceQu,Po,43
+FireplaceQu,Ex,35
+Functional,Typ,2398
+Functional,Min2,66
+Functional,Min1,57
+Functional,Mod,32
+Functional,Maj1,18
+Functional,Maj2,7
+Functional,Sal,1
+GarageCond,TA,2357
+GarageCond,No Garage,127
+GarageCond,Fa,67
+GarageCond,Gd,14
+GarageCond,Po,11
+GarageCond,Ex,3
+GarageFinish,Unf,1113
+GarageFinish,RFn,718
+GarageFinish,Fin,621
+GarageFinish,No Garage,127
+GarageQual,TA,2313
+GarageQual,No Garage,127
+GarageQual,Fa,110
+GarageQual,Gd,22
+GarageQual,Po,4
+GarageQual,Ex,3
+HeatingQC,Ex,1293
+HeatingQC,TA,767
+HeatingQC,Gd,434
+HeatingQC,Fa,84
+HeatingQC,Po,1
+KitchenQual,TA,1357
+KitchenQual,Gd,1017
+KitchenQual,Ex,142
+KitchenQual,Fa,62
+KitchenQual,Po,1
+LandSlope,Gtl,2458
+LandSlope,Mod,108
+LandSlope,Sev,13
+LotShape,Reg,1640
+LotShape,IR1,855
+LotShape,IR2,71
+LotShape,IR3,13
+OverallCond,5,1402
+OverallCond,6,497
+OverallCond,7,360
+OverallCond,8,140
+OverallCond,4,88
+OverallCond,9,41
+OverallCond,3,39
+OverallCond,2,8
+OverallCond,1,4
+OverallQual,5,752
+OverallQual,6,669
+OverallQual,7,525
+OverallQual,8,290
+OverallQual,4,195
+OverallQual,9,80
+OverallQual,3,32
+OverallQual,10,20
+OverallQual,2,13
+OverallQual,1,3
+PavedDrive,Y,2335
+PavedDrive,N,184
+PavedDrive,P,60
+PoolQC,No Pool,2570
+PoolQC,TA,3
+PoolQC,Ex,2
+PoolQC,Gd,2
+PoolQC,Fa,2
+Utilities,AllPub,2577
+Utilities,NoSewr,2
