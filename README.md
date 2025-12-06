@@ -2,7 +2,11 @@
 
 **Ames Housing Dataset Documentation:** https://jse.amstat.org/v19n3/decock/DataDocumentation.txt
 
-**PowerPoint Presentation:** https://docs.google.com/presentation/d/1J4VHVDKkQU0cHHjZY8WuZoJScNYAUO1kwWjsM-dRlsA/edit?slide=id.p1#slide=id.p1
+**Blog Post:**
+https://nycdatascience.com/blog/student-works/machine-learning-on-home-prices-in-ames-iowa/
+
+**PowerPoint Presentation:**
+https://docs.google.com/presentation/d/1J4VHVDKkQU0cHHjZY8WuZoJScNYAUO1kwWjsM-dRlsA/edit?slide=id.p1#slide=id.p1
 
 **Project:**
 Used Imputation, Feature Engineering, and various MLR, Penalized MLR, & Tree-Based ML Models to accurately predict Home Prices and determine which features were most important.  Cross Validation Scores (5x) were used to determine accuracy, Feature Importances & SHAP Values were used to determine which features had the most impact on model predictions.
